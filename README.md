@@ -34,6 +34,12 @@ This project demonstrates the implementation and application of a neural network
 
 A video demonstration of our model's performance can be found at the following link, showcasing real-time object detection:
 
+
+[![Watch the Shorts](https://img.youtube.com/vi/ls3MBLqMeqc/maxresdefault.jpg)](https://youtube.com/shorts/ls3MBLqMeqc)
+
+[Watch the Shorts Here](https://youtube.com/shorts/ls3MBLqMeqc)
+
+
 [Video Result](https://drive.google.com/file/d/1-32krIqy26KvwPDVVx6UEqiP4a-FHrQU/view?usp=sharing)
 
 This video provides a visual representation of the model's capability to accurately identify and locate trains and airplanes in a dynamic context.
